@@ -1,7 +1,7 @@
 # Automatic-Modulation-Classification (AMC) for Low Powered IoT Devices
 
 ## What is Automatic-Modulation-Classification ?
-#### Automatic modulation classification (AMC) is used to identify the modulation for the received signal. IoT devices use modern communication methods which are based on multiple input multiple output (MIMO) in which the signals are received from various sources. The identification of modulation is vital. 
+ - #### Automatic modulation classification (AMC) is used to identify the modulation for the received signal. IoT devices use modern communication methods which are based on multiple input multiple output (MIMO) in which the signals are received from various sources. The identification of modulation is vital. 
 
 ## Abstract
 #### In this work, we investigate the value of employing deep learning for the task of wireless signal modulation classiﬁcation. We consider a baseline method using cumulants and compare it with the deep learning approach across a varying range of signal-to-noise ratios. We have use  three type of Deep  architecture.
