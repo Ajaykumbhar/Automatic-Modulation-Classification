@@ -8,7 +8,7 @@
 ### Those are :
 - 1. Artificial Neural Networ(ANN)
 - 2. convolutional
-- 3. Recurrent Neural Networks(RNN).
+- 3. Residual Neural Networks(ResNet).
 ####  The final number of parameters of each model was considered during thedesign phase, as it can have a big impact on a memory footprint of a deployed model.The architectures were written in Keras, which is a software library, which provides a Python interface for neural networks. The results of the architectures were additionally compared to results from other research papers on this topic.
 
 
